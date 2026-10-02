@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**AbdoulqadirTounkara/AbdoulqadirTounkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdoulqadir, a student based in Chicago getting into cybersecurity.
 
-Here are some ideas to get you started:
+I'm just starting out, focused on the fundamentals, studying for my first certs, and getting hands-on with IT. The plan is to build it up step by step: a solid IT foundation first, then into security, and eventually offensive work and red teaming. That's what I'm working toward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most days you'll catch me heads-down in a cert tutorial, taking apart (and putting back together) my PC, or just trying to figure out how things actually work under the hood. Still early, still learning a ton but genuinely into it.
+
+If you're on a similar path, let's connect.
+
+
+Reach me
+
+- Email
+      aqtounkara59@protonmail.com
+- Discord
+        
